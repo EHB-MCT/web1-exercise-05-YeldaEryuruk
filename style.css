@@ -1,0 +1,41 @@
+.wrapper {
+
+   margin: 0 auto;
+   width: 940px;
+   height: 2000px;
+}
+
+h1{
+    color:#147beb;
+    font-size: 250%;
+}
+
+p{
+    font-weight: bold;
+    font-size: larger;
+}
+.featured {
+    height: 300px;
+
+    width: 100%;
+}
+
+.item {
+    position: relative;
+    float: left;
+}
+
+.wonderwoman {
+    margin-left: 20px;
+}
+
+.featured{
+    margin-bottom: 50px;
+    position:relative;
+    float: left;
+}
+whos-who{
+    margin-bottom: 100px;
+    position: relative;
+    float: left;
+}
